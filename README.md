@@ -84,4 +84,16 @@ sgr
 ```
 7. Follow the on-screen instructions to enter container type and volume, and see the program output
 
+---
+
+👨‍💻 Author
+
+Iancu Aurelian (Github: Aurasj)
+
+---
+
+## 🔓 Usage
+
+This project is free to use, modify, and share.  
+Feel free to clone this repository and use it for learning or personal projects.
 
